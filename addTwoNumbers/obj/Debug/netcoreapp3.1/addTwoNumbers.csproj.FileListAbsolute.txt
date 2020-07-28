@@ -1,0 +1,13 @@
+I:\Csharp\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp3.1\addTwoNumbers.exe
+I:\Csharp\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp3.1\addTwoNumbers.deps.json
+I:\Csharp\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp3.1\addTwoNumbers.runtimeconfig.json
+I:\Csharp\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp3.1\addTwoNumbers.runtimeconfig.dev.json
+I:\Csharp\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp3.1\addTwoNumbers.dll
+I:\Csharp\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp3.1\addTwoNumbers.pdb
+I:\Csharp\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp3.1\addTwoNumbers.csprojAssemblyReference.cache
+I:\Csharp\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp3.1\addTwoNumbers.csproj.CoreCompileInputs.cache
+I:\Csharp\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp3.1\addTwoNumbers.AssemblyInfoInputs.cache
+I:\Csharp\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp3.1\addTwoNumbers.AssemblyInfo.cs
+I:\Csharp\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp3.1\addTwoNumbers.dll
+I:\Csharp\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp3.1\addTwoNumbers.pdb
+I:\Csharp\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp3.1\addTwoNumbers.genruntimeconfig.cache
